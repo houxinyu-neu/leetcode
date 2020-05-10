@@ -17,6 +17,7 @@
 **死磕自己，坚持到底！！**
 
 + 5.6~5.10 数据结构 > 字符串
++ 5.11~5.17数据结构->字符串
 
 ## 刷题面板
 
@@ -29,4 +30,7 @@
 | 5.7  |                                                              |                                                              |
 | 5.8  |                                                              |                                                              |
 | 5.9  | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) |
+| 5.10 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
+
+**第二周：数据结构->栈和队列**
 
